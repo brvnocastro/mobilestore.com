@@ -1,0 +1,9 @@
+MStore
+
+Equipamentos:
+	
+	Apple: Iphone 8, 8 plus, X, XS, XS Max
+
+	Samsung: Samgung Galaxy s9,s9+ ,S10, S10+, S10 e
+
+
